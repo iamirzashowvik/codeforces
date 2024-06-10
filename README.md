@@ -1,3 +1,3 @@
-https://codeforces.com/profile/mirza123
+## My Profiles on Other Platforms
 
-<iframe src="https://codeforces.com/profile/mirza123" title="My CodeForce">
+- [![Codeforces](https://img.shields.io/badge/Codeforces-Profile-blue)](https://codeforces.com/profile/mirza123)
