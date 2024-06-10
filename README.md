@@ -4,5 +4,13 @@
 
 - ## My Codeforces Stats
 
-![Codeforces Stats Card](https://codeforces-stats-api.herokuapp.com/stats?username=mirza123&theme=1)
+<a href="https://github.com/iamirzashowvik/cf-stats">
+<img src="https://raw.githubusercontent.com/iamirzashowvik/cf-stats/main/output/light_card.svg#gh-dark-mode-only" />
+<img src="https://raw.githubusercontent.com/iamirzashowvik/cf-stats/main/output/light_card.svg" />
+</a>
+<br/>
+<a href="https://github.com/iamirzashowvik/cf-stats">
+<img src="https://raw.githubusercontent.com/iamirzashowvik/cf-stats/main/output/max_rating.svg" />
+<img src="https://raw.githubusercontent.com/iamirzashowvik/cf-stats/main/output/rating.svg" />
+</a>
 
