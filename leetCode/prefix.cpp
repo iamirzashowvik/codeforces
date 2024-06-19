@@ -1,4 +1,4 @@
-// Online C++ compiler to run C++ program online
+// https://leetcode.com/problems/longest-common-prefix/description/
 #include <iostream>
 #include <vector>
 #include <algorithm>
